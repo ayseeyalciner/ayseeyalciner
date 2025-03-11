@@ -2,5 +2,5 @@
 
 
 
-![Ayse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayseeyalciner&show_icons=true&theme=jolly)
+![Ayse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayseeyalciner&show_icons=true&theme=jolly&rank_icon=github&hide=prs,issues)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayseeyalciner&hide_progress=true) --!)
