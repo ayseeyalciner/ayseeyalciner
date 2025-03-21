@@ -11,5 +11,5 @@ Let's connect! :wave:
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ayseeyalciner&show_icons=true&theme=jolly&rank_icon=github&hide=prs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseeyalciner&layout=compact&langs_count=8&card_width=200" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseeyalciner&layout=compact&langs_count=8&card_width=300" />
 </a>
