@@ -8,8 +8,8 @@ Let's connect! :wave:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ayseeyalciner&show_icons=true&theme=jolly&rank_icon=github&hide=prs,issues" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ayseeyalciner&show_icons=true&theme=jolly&rank_icon=github&hide=prs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseeyalciner&layout=compact&langs_count=8&card_width=200" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseeyalciner&layout=compact&langs_count=8&card_width=200" />
 </a>
