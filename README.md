@@ -1,4 +1,4 @@
-# AYŞE YALÇINER | Cloud Engineer 
+# AYŞE YALÇINER | AI & Cloud Computing in Healthcare
 
 ## Advanced Training
 * Cloud Engineering Bootcamp, Cloud & Cloud (AWS Advanced Partner), 02/2025 - 06/2025
